@@ -1,0 +1,1 @@
+One operating system function is managing devices. Managed devices include things like keyboards, monitors, speakers, hard drives, and mostly all peripherals. The operating system keeps track of what is plugged into the computer and decides what processes get the device.
